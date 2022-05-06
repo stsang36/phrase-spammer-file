@@ -1,4 +1,4 @@
-# input.py
+# main.py
 # Steven Tsang May 2022
 # Description: A python script that will print out all words inside a given textfile.
 
